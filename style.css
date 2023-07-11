@@ -138,3 +138,39 @@ body {
     font-size: 16px;
     font-weight: 600;
 }
+
+/* section 4 */
+.hot-del-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 128px;
+}
+
+.hot-del-contant {
+    margin-left: 330px;
+}
+
+.hot-del-heading {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.hot-del-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+
+.hot-del-img {
+    width: 318px;
+    height: 380px;
+    margin: 100px 300px 100px 150px;
+}
+
+.font-color {
+    color: #E55473;
+}
