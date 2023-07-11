@@ -125,12 +125,15 @@ body {
     margin-top: 128px;
     padding: 85px 85px;
     border-radius: 5px;
+
 }
 
 .icon {
     width: 88px;
     height: 88px;
-    padding-left: 80px;
+    padding-left: 30px;
+
+
 
 }
 
@@ -138,6 +141,12 @@ body {
     color: rgba(39, 39, 39, 0.80);
     font-size: 16px;
     font-weight: 600;
+    margin-top: 10px;
+
+}
+
+.images {
+    padding-left: 100px;
 }
 
 /* section 4 */
@@ -243,11 +252,10 @@ body {
 }
 
 .latest-input {
-    /* width: 700px;
-    height: 64px; */
     background-color: #FFF;
     border: none;
     padding: 26px 400px 26px 22px;
+    color: #27272799;
     margin-right: 10px;
 
 }
