@@ -112,6 +112,47 @@ body {
     font-weight: 700;
 }
 
+/* extra section */
+
+.hand-tied {
+    margin-top: 140px;
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.hand-tied-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    gap: 20px;
+    border-radius: 5px;
+}
+
+.flower-name {
+    color: #272727;
+    font-size: 20px;
+    font-weight: 800;
+    padding-top: 20px;
+
+
+}
+
+.flower-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+
+.first-bouquets {
+    height: 600px;
+    width: 550px;
+}
+
+
 
 /* section 3 */
 .service-section {
@@ -146,7 +187,7 @@ body {
 }
 
 .images {
-    padding-left: 100px;
+    padding-left: 50px;
 }
 
 /* section 4 */
