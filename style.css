@@ -86,14 +86,14 @@ body {
     width: 390px;
     height: 450px;
     border-radius: 280px 280px 0 0;
-    background: rgba(167, 33, 98, 0.15);
+    background: rgba(5, 151, 160, 0.15);
 }
 
 .third-img-section {
     width: 390px;
     height: 450px;
     border-radius: 280px 280px 0 0;
-    background: rgba(167, 33, 98, 0.15);
+    background: rgba(71, 125, 17, 0.15);
 }
 
 .img {
@@ -173,4 +173,34 @@ body {
 
 .font-color {
     color: #E55473;
+}
+
+/* section 4 */
+
+.instagram-section {
+    margin-top: 128px;
+}
+
+.instagram-info {
+    text-align: center;
+}
+
+.instagram-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 48px;
+}
+
+.insta-heading {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.insta-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 24px;
 }
